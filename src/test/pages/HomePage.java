@@ -8,4 +8,6 @@ public class HomePage {
 
     // contact me page link
 
+    // some more links added by Kate
+
 }
